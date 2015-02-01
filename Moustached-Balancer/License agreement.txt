@@ -1,0 +1,29 @@
+1. All copyrights to the this software (the "Software") has the Okmeray Team.
+
+2. Software is distributed "AS IS".
+This does not provide any warranty, express or implied.You
+use this software at your own risk. The author is not responsible for toll
+data, damage, loss of profits or any other kind of loss,
+associated with the use (right or wrong) that program.
+
+3. You can use Software for any period time.
+
+4. The Software can be freely distributed in the form in which it
+comes. No person or organization shall not have the right to take payment for
+distribution of the program without the written permission of the holder copyright rights.
+
+5. You can not emulate, clone, rent, lease, give rent, sell, modify, decompile, disassemble Software. 
+Any such unauthorized use shall result in
+immediate and automatic termination of this license and may result in criminal and / or civil prosecution.
+
+6. Installing and using the Software automatically confirms
+your agree to the terms of this license.
+
+7. If you do not agree with the terms of this license you must remove
+Software files from your storage devices and cease to use of the program.
+
+8. All rights not expressly provided herein, the Software authors.
+
+9. This Software for personal use only.
+
+* If you want to license Software for use within the your company - okmeray.team.callback@gmail.com
